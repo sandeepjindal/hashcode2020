@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e624b895-8fed-4841-95a4-3fa0f409ae8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashcode2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hashcode2020.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Y55VQueYf7jLJP3H3liaVXESQs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="io.protostuff.jetbrains.plugin.settings.ProtobufSettingsConfigurable" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/MyDrive/Agodapay/Repo/fraud-backoffice" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/MyDrive/Agodapay/Repo/reconciliator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/MyDrive/Agodapay/Repo/suppio-fork/ycs-suppio" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/MyDrive/Agodapay/Repo/ycs-suppio/ycs-suppio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Flight01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka/essentials" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka/udemy-akka-persistence-starter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scalaApplied1/exercises-applied" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scalaApplied2/exercises-applied-part2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scalaApplied3/exercises-applied-part3" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e624b895-8fed-4841-95a4-3fa0f409ae8d" name="Default Changelist" comment="" />
+      <created>1582219637901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582219637901</updated>
+    </task>
+    <servers />
+  </component>
+</project>
